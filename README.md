@@ -14,7 +14,7 @@
  spam-sms-detection/ </br>
  ├── spam_sms_detection.ipynb    Jupyter Notebook with full implementation </br>
  ├── dataset/                      </br>
- │  └── spam.csv                Downloaded dataset from Kaggle     </br>
+   └── spam.csv                Downloaded dataset from Kaggle     </br>
  ├── README.md                   Project documentation              </br>
  └── requirements.txt            Required Python packages           </br>
 
