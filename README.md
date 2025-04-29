@@ -11,12 +11,12 @@
  Description: 5,574 English SMS messages labeled as 'spam' or 'ham'
 
  ## Project Structure
- spam-sms-detection/
- ├── spam_sms_detection.ipynb   # Jupyter Notebook with full implementation
- ├── dataset/
- │   └── spam.csv               # Downloaded dataset from Kaggle
- ├── README.md                  # Project documentation
- └── requirements.txt           # Required Python packages
+ spam-sms-detection/ </br>
+ ├── spam_sms_detection.ipynb    Jupyter Notebook with full implementation </br>
+ ├── dataset/                      </br>
+ │  └── spam.csv                Downloaded dataset from Kaggle     </br>
+ ├── README.md                   Project documentation              </br>
+ └── requirements.txt            Required Python packages           </br>
 
  ## Technologies Used
  - Language: Python 3.x
